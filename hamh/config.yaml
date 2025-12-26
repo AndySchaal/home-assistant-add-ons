@@ -1,4 +1,5 @@
 version: "3.0.4"
+image: ghcr.io/AndySchaal/home-assistant-matter-hub-addon
 slug: hamh
 name: Home-Assistant-Matter-Hub
 description: Publish your entities from Home Assistant to any Matter-compatible controller like Alexa, Apple Home or Google Home.
